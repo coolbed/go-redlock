@@ -1,4 +1,4 @@
-module coolbed.me/go-redlock
+module github.com/coolbed/go-redlock
 
 go 1.14
 
